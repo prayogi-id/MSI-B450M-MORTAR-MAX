@@ -1,6 +1,6 @@
 **My Build**
 - OS: macOS Sonoma 14.1.1
-- CPU: AMAD ryzen 5 5600g @4.6GHZ
+- CPU: AMD ryzen 5 5600g @4.6GHZ
 - MB: MSI B450M Mortar Max
 - RAM: Klevv Bolt X 2x8GB DDR4 @4000Mhz
 - iGPU: AMD Radeon Vega 7
