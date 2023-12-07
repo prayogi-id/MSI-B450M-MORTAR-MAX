@@ -1,0 +1,2 @@
+# MSI-B450M-MORTAR-MAX
+MSI B450M Mortar max + Ryzen 5 5600G + Vega 7
